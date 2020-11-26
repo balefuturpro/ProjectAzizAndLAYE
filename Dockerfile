@@ -1,6 +1,6 @@
 FROM openjdk:8
 
-ARG JAR_FILE=target/ProjetAtelier-1.0-SNAPSHOT.jar
+ARG JAR_FILE=target/ProjectAzizAndLAYE-1.0-SNAPSHOT.jar
 ARG JAR_LIB_FILE=target/lib/
 
 # cd /usr/local/runme
